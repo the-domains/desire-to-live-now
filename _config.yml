@@ -1,0 +1,28 @@
+name: Desire To Live Now
+favicon: null
+layout_spectrum: 0.7517565817106515
+typography_spectrum: 0.3898192292544991
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5944274247158319
+  lightness: 0.524856117554009
+  saturation: 0.05232815258204937
+  rhythmicContrast: 0.5170550120528787
+purpose: []
